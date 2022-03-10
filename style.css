@@ -196,12 +196,22 @@
         color: white;
         transition-duration: .8s;
     }
-    .button {
-        text-align: center;
-        margin-top: 47px;
-        padding: 17px;
-        background-color: #2d6f00e0;
+      p button {
+        border: none;
+        outline: 0;
+        padding: 12px;
         color: white;
-        font-size: 26px;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+      }
+    p button:hover{
+        opacity: 0.5;
+        transition-duration: 0.50s;
+    }
+    p button {
+        font-size: 32px;
     }
     
