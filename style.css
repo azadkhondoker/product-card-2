@@ -1,0 +1,207 @@
+*{
+    margin: 0px;
+    padding: 0px;}
+    .card {
+        width: 600px;
+        margin: 0 auto;
+    }
+    .card{
+        margin: o auto;
+    }
+    
+    .card .thumb img {
+        width: 100%;
+    }
+    .card{
+        box-shadow: -5px 2px 44px 12px rgba(125,86,86,0.97);
+    }
+    .card .thumb h4 {
+        background-color: rgb(232 76 4 / 28%);
+        color: white;
+        display: inline-block;
+        padding: 10px;
+        width: 127px;
+        height: 46px;
+        text-align: center;
+        line-height: 46px;
+        font-size: 21px;
+    }
+    .card .thumb{
+        position: relative;
+    }
+    .card .thumb h4 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 50px 1px;
+    }
+    .ster a {
+        color: gold;
+        text-align: center;
+    
+    }
+    .card .thumb .ster {
+        margin: 25px;
+        text-align: center;
+        font-size: 36px;
+    }
+    .card .thumb .icon {
+        position: absolute;
+        bottom: 79px;
+        right: 0;
+    }
+    
+    .icon a {
+        border-radius: 50px;
+        display: inline-block;
+        margin: 15px;
+        background-color: white;
+        padding: 15px;
+        text-align: center;
+    }
+    .icon a:nth-child(1) {
+        color: blue;
+        background-color: white;
+    }
+    
+    .icon a:nth-child(2) {
+        color: white;
+        background-color: hsl(240deg 100% 50%);
+    }
+    
+    .icon a:nth-child(3) {
+        background-color: aqua;
+        color: inherit;
+    }
+    {}
+
+    .icon a:nth-child(1):hover {
+        background-color: blue;
+        color: white;
+        transition-duration: 0.8s;
+    }
+    
+    .icon a:nth-child(2):hover {
+        background-color: white;
+        color: blue;
+        transition-duration: 0.8s;
+    }
+    
+    .icon a:nth-child(3):hover {
+        background-color: blue;
+        color: white;
+        transition-duration: 0.8s;
+    }
+    
+    .icon a:nth-child(4):hover {}
+    
+    .content {}
+    
+    .icon a:nth-child(4) {
+        background-color: rgb(57 220 92);
+        color: black;
+    }
+    
+    .icon a:nth-child(4):hover {
+        background-color: cyan;
+        color: #7c0202;
+        transition-duration: 0.8s;
+    }
+    {}
+
+    .icon a:nth-child(1):hover {
+        background-color: blue;
+        color: white;
+        transition-duration: 0.8s;
+    }
+    
+    .icon a:nth-child(2):hover {
+        background-color: white;
+        color: blue;
+        transition-duration: 0.8s;
+    }
+    
+    .icon a:nth-child(3):hover {
+        background-color: blue;
+        color: white;
+        transition-duration: 0.8s;
+    }
+    
+    .icon a:nth-child(4):hover {}
+
+    
+    .icon a:nth-child(4) {
+        background-color: rgb(57 220 92);
+        color: black;
+    }
+    
+    .icon a:nth-child(4):hover {
+        background-color: cyan;
+        color: #7c0202;
+        transition-duration: 0.8s;
+    }
+    .content {
+        padding: 8px;
+    }
+    
+    .content h3 {
+        font-size: 20px;
+        padding: 8px;
+    }
+    
+    .content p {
+        padding: 8px;
+        font-size: 18px;
+        text-align: justify;
+    }
+    .another {
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .another a {
+        display: inline-block;
+        padding: 15px;
+        text-decoration: none;
+        width: 74px;
+        background-color: rgb(0 0 0 / 35%);
+        margin: 13px;
+        border-radius: 50px;
+        color: aqua;
+    }
+    
+    .another a:hover {
+        background-color: tomato;
+        color: white;
+        transition-duration: .8s;
+    }
+    .another {
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .another a {
+        display: inline-block;
+        padding: 15px;
+        text-decoration: none;
+        width: 74px;
+        background-color: rgb(0 0 0 / 35%);
+        margin: 13px;
+        border-radius: 50px;
+        color: aqua;
+    }
+    
+    .another a:hover {
+        background-color: tomato;
+        color: white;
+        transition-duration: .8s;
+    }
+    .button {
+        text-align: center;
+        margin-top: 47px;
+        padding: 17px;
+        background-color: #2d6f00e0;
+        color: white;
+        font-size: 26px;
+    }
+    
